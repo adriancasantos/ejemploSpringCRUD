@@ -1,0 +1,5 @@
+com\EjercicioSpring\EjercicioSpring\DAO\ProductosDAOImp.class
+com\EjercicioSpring\EjercicioSpring\DAO\ProductosDAO.class
+com\EjercicioSpring\EjercicioSpring\EjercicioSpringApplication.class
+com\EjercicioSpring\EjercicioSpring\controlador\ProductosControlador.class
+com\EjercicioSpring\EjercicioSpring\modelo\ModeloProductos.class
